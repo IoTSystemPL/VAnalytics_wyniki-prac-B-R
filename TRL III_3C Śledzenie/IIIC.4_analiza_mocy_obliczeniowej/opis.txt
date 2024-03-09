@@ -1,0 +1,4 @@
+W tym foldrze jest kilka filmów, które zosta³y przetworzone przez specjalny program, który mia³ oszacowaæ czy i na ile mo¿liwe jest zmniejszenie iloœci obliczeñ w warunkach ograniczonej mocy obliczeniowej. Obraz zosta³ podzielony na kwadratowe kafelki, dla ka¿dego z nich w ka¿dej klatce filmu obliczamy na ile ten kafelek zmieni³ siê w stosunku do ostatniej klatki. Je¿eli zmiana jest wiêksza ni¿ pewien przyjêty przez nas próg, wtedy taki kafelek musia³by zostaæ ponownie przetworzony przez sieæ neuronow¹. Na filmie zostaje dodatkowo podœwietlony by mo¿na by³o wizualnie oceniæ jaka czêœæ obrazu siê zmienia.
+W prawym górnym rogu wypisane s¹ dwie liczby, od góry:
+ - œrednia zmiana obrazu na ka¿d¹ klatkê (liczona od pocz¹tku trwania filmu)
+ - chwilowa zmiana obrazu (miêdzy t¹, a poprzedni¹ klatk¹)

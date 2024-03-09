@@ -1,0 +1,1 @@
+Filmy w tym folderze pochodz¹ z danych benchmarkowych OTB i zosta³y przetworzone przez nasz¹ sieæ neuronow¹ do detekcji ludzi. Mo¿na na nich wizualnie oceniaæ skutecznoœæ dzia³ania.
