@@ -1,0 +1,290 @@
+Camera 2 IN/OUT_1 (1594), version 5348
+movstat sum more : 14
+tester sum more  : 27
+tester sum       : 152
+hits             : 125
+---------------------------------------
+real mistake : 26.97 %
+mistake      : -8.55 %
+correct      : 82.24 %
+
+Camera 3 IN/OUT_2 (1595), version 5349
+movstat sum more : 22
+tester sum more  : 38
+tester sum       : 179
+hits             : 141
+---------------------------------------
+real mistake : 33.52 %
+mistake      : -8.94 %
+correct      : 78.77 %
+
+Camera 3 IN/OUT_2 (1641), version 5368
+movstat sum more : 10
+tester sum more  : 1
+tester sum       : 20
+hits             : 19
+---------------------------------------
+real mistake : 55.0 %
+mistake      : 45.0 %
+correct      : 95.0 %
+
+Camera 4 IN/OUT_3 (1642), version 5369
+movstat sum more : 0
+tester sum more  : 0
+tester sum       : 1
+hits             : 1
+---------------------------------------
+real mistake : 0.0 %
+mistake      : 0.0 %
+correct      : 100.0 %
+
+Camera 5 IN/OUT_4 (1643), version 5370
+movstat sum more : 1
+tester sum more  : 1
+tester sum       : 15
+hits             : 14
+---------------------------------------
+real mistake : 13.33 %
+mistake      : 0.0 %
+correct      : 93.33 %
+
+Camera 2 IN/OUT_1 (1645), version 5357
+movstat sum more : 5
+tester sum more  : 1
+tester sum       : 25
+hits             : 24
+---------------------------------------
+real mistake : 24.0 %
+mistake      : 16.0 %
+correct      : 96.0 %
+
+Camera 3 IN/OUT_2 (1646), version 5358
+movstat sum more : 5
+tester sum more  : 7
+tester sum       : 41
+hits             : 34
+---------------------------------------
+real mistake : 29.27 %
+mistake      : -4.88 %
+correct      : 82.93 %
+
+Camera 2 IN/OUT_1 (1664), version 5364
+movstat sum more : 3
+tester sum more  : 2
+tester sum       : 44
+hits             : 42
+---------------------------------------
+real mistake : 11.36 %
+mistake      : 2.27 %
+correct      : 95.45 %
+
+Camera 3 IN/OUT_2 (1665), version 5365
+movstat sum more : 0
+tester sum more  : 1
+tester sum       : 12
+hits             : 11
+---------------------------------------
+real mistake : 8.33 %
+mistake      : -8.33 %
+correct      : 91.67 %
+
+Cam 2 Entrance (1676), version 5378
+movstat sum more : 5
+tester sum more  : 8
+tester sum       : 44
+hits             : 36
+---------------------------------------
+real mistake : 29.55 %
+mistake      : -6.82 %
+correct      : 81.82 %
+
+Cam 3 Entrance 2 (1677), version 5379
+movstat sum more : 0
+tester sum more  : 4
+tester sum       : 39
+hits             : 35
+---------------------------------------
+real mistake : 10.26 %
+mistake      : -10.26 %
+correct      : 89.74 %
+
+Camera 2 IN/OUT_1 (1701), version 5351
+movstat sum more : 0
+tester sum more  : 1
+tester sum       : 10
+hits             : 9
+---------------------------------------
+real mistake : 10.0 %
+mistake      : -10.0 %
+correct      : 90.0 %
+
+Camera 3 IN/OUT_2 (1702), version 5352
+movstat sum more : 0
+tester sum more  : 33
+tester sum       : 106
+hits             : 73
+---------------------------------------
+real mistake : 31.13 %
+mistake      : -31.13 %
+correct      : 68.87 %
+
+Cam 2 Entrance 1 (1719), version 5344
+movstat sum more : 2
+tester sum more  : 12
+tester sum       : 64
+hits             : 52
+---------------------------------------
+real mistake : 21.88 %
+mistake      : -15.62 %
+correct      : 81.25 %
+
+Cam 2 Entrance 1 (1721), version 5381
+movstat sum more : 0
+tester sum more  : 2
+tester sum       : 6
+hits             : 4
+---------------------------------------
+real mistake : 33.33 %
+mistake      : -33.33 %
+correct      : 66.67 %
+
+Cam 3 Entrance 2 (1722), version 5382
+movstat sum more : 6
+tester sum more  : 3
+tester sum       : 36
+hits             : 33
+---------------------------------------
+real mistake : 25.0 %
+mistake      : 8.33 %
+correct      : 91.67 %
+
+Camera 2 IN/OUT_1 (1724), version 5361
+movstat sum more : 3
+tester sum more  : 2
+tester sum       : 33
+hits             : 31
+---------------------------------------
+real mistake : 15.15 %
+mistake      : 3.03 %
+correct      : 93.94 %
+
+Camera 3 IN/OUT_2 (1725), version 5362
+movstat sum more : 7
+tester sum more  : 0
+tester sum       : 49
+hits             : 49
+---------------------------------------
+real mistake : 14.29 %
+mistake      : 14.29 %
+correct      : 100.0 %
+
+Cam 2 Entrance 1 (1731), version 5375
+movstat sum more : 0
+tester sum more  : 0
+tester sum       : 9
+hits             : 9
+---------------------------------------
+real mistake : 0.0 %
+mistake      : 0.0 %
+correct      : 100.0 %
+
+Cam 3 Entrance 2 (1732), version 5376
+movstat sum more : 0
+tester sum more  : 3
+tester sum       : 31
+hits             : 28
+---------------------------------------
+real mistake : 9.68 %
+mistake      : -9.68 %
+correct      : 90.32 %
+
+Cam 2 Entrance 1 (1739), version 5354
+movstat sum more : 8
+tester sum more  : 6
+tester sum       : 39
+hits             : 33
+---------------------------------------
+real mistake : 35.9 %
+mistake      : 5.13 %
+correct      : 84.62 %
+
+Cam 3 Entrance 2 (1740), version 5355
+movstat sum more : 0
+tester sum more  : 2
+tester sum       : 23
+hits             : 21
+---------------------------------------
+real mistake : 8.7 %
+mistake      : -8.7 %
+correct      : 91.3 %
+
+Cam 2 Entrance 1 (1770), version 5372
+movstat sum more : 1
+tester sum more  : 4
+tester sum       : 26
+hits             : 22
+---------------------------------------
+real mistake : 19.23 %
+mistake      : -11.54 %
+correct      : 84.62 %
+
+Cam 3 Entrance 2 (1771), version 5373
+movstat sum more : 0
+tester sum more  : 7
+tester sum       : 18
+hits             : 11
+---------------------------------------
+real mistake : 38.89 %
+mistake      : -38.89 %
+correct      : 61.11 %
+
+Cam 2 Entrance 1 (1773), version 5346
+movstat sum more : 10
+tester sum more  : 8
+tester sum       : 93
+hits             : 85
+---------------------------------------
+real mistake : 19.35 %
+mistake      : 2.15 %
+correct      : 91.4 %
+
+Cam 3 Entrance 2 (1774), version 5347
+movstat sum more : 1
+tester sum more  : 0
+tester sum       : 14
+hits             : 14
+---------------------------------------
+real mistake : 7.14 %
+mistake      : 7.14 %
+correct      : 100.0 %
+
+Camera 1 FC (1784), version 5478
+movstat sum more : 3
+tester sum more  : 5
+tester sum       : 22
+hits             : 17
+---------------------------------------
+real mistake : 36.36 %
+mistake      : -9.09 %
+correct      : 77.27 %
+
+Camera 2 Entrance (1785), version 5479
+movstat sum more : 0
+tester sum more  : 0
+tester sum       : 5
+hits             : 5
+---------------------------------------
+real mistake : 0.0 %
+mistake      : 0.0 %
+correct      : 100.0 %
+
+----TOTAL-STATS----
+real mistake : 24.57 %
+mistake      : -6.23 %
+hits         : 84.6 %
+
+movstat sum more : 106
+tester sum more  : 178
+tester sum       : 1156
+correct          : 978
+
