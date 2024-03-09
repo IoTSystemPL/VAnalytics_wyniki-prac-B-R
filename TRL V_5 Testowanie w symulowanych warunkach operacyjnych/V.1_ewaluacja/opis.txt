@@ -1,0 +1,6 @@
+W tym folderze s¹ wyniki testów skutecznoœci liczenia liczby osób przechodz¹cych przez dany obszar. Testy zosta³y przeprowadzone dla trzech wariantów:
+movstat - to wyniki dzia³ania systemu MovStat opartego na klasycznych algorytmach. Nale¿y zwróciæ uwagê na to, ¿e do testów zosta³a wybrany najlepszy zestaw parametrów. ¯eby znaleŸæ odpowiednie wartoœci tych parametrów potrzeba by³o bardzo wielu roboczogodzin.
+v_analytics_cpu - to wyniki dzia³ania systemu V Analytics u¿ywaj¹c implementacji na CPU dla ograniczonej mocy obliczeniowej.
+v_analytics_gpu - to wyniki dzia³ania systemu V Analytics u¿ywaj¹c implementacji na GPU bez ¿adnych ograniczeñ.
+
+Nale¿y zwróciæ uwagê na to, ¿e testy systemu V Analytics nie zosta³y poprzedzone kosztown¹ faz¹ dobierania najlepszych parametrów. V Analytics ma tak w³aœciwie tylko jeden parametr, którym mo¿na kontrolowaæ skutecznoœæ detekcji, a ca³y sens tych testów polega³ na wykazaniu, ¿e mo¿na zastosowaæ domyœlne wartoœci, a i tak uzyskaæ lepsz¹ skutecznoœæ obliczeñ.

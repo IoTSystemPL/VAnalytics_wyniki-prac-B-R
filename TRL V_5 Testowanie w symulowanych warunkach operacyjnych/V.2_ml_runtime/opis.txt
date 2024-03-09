@@ -1,0 +1,14 @@
+Napisaliœmy specjalny program, który przetwarza³ filmy w celu wizualnego porównania skutecznoœci detekcji, oraz szybkoœci dzia³ania. S¹ to te same filmy jak w folderze "filmy_od_netizens" ale tutaj zosta³y one przetworzone przez nasz¹ implementacjê sieci neuronowych, w jêzyku C++.
+
+W prawym górnym rogu wypisane s¹, od góry:
+ - liczba wykrytych obiektów
+ - iloœæ klatek na sekundê (fps - frame per second) przetwarzanych przez program
+
+Ka¿dy z trzech filmów zosta³ przetworzony w trzech ró¿nych wariantach zaczynaj¹cych siê od:
+ - base - jest to bazowa implementacja na procesor CPU, nie korzystaj¹ca z modu³u przyspieszaj¹cego dzia³anie w warunkach ograniczonej mocy obliczeniowej.
+ - cpu - jest to nasza implementacja dla ograniczonej mocy obliczeniowej, uruchomiona na tym samym procesorze CPU co powy¿ej.
+ - gpu - jest to nasza implementacja dla procesora GPU
+
+G³ówne wnioski:
+ - wersja "cpu" jest od 3 do 6 razy szybsza ni¿ wersja "base".
+ - wersja "gpu" jest nawet do 20 razy szybsza ni¿ wersja "base" (to akurat spodziewany rezultat).
