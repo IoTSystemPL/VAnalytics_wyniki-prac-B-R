@@ -1,0 +1,4 @@
+host=192.168.4.198
+port=12345
+mode=BBoxDraw
+dataset_path=C:\Users\mkozarzewski\Desktop\dataset-tool-execs\dataset\

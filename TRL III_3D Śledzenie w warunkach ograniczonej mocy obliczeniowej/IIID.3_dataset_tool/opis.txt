@@ -1,0 +1,8 @@
+W tym folderze znajduje siê nasz program do tworzenia danych treningowych dzia³aj¹cy w architekturze klient-serwer. W sk³ad folderu wchodz¹:
+assets - folder z ikonkami u¿ytymi w programie.
+client_config - plik konfiguracyjny dla klienta.
+demo - film obrazuj¹cy dzia³anie i u¿ywanie edytora.
+editor - aplikacja klienta.
+instrukcja - instrukcja obs³ugi dla u¿ytkownika.
+RESTserver - program serwerowy.
+server_config - plik konfiguracyjny dla serwera.
